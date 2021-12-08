@@ -2,11 +2,11 @@
 
 ### Overview and Purpose
 
-Explain the purpose of this analysis.
+This analysis focuses on a large dataset of loans. Using this dataset we will deploy our knowledge of Supervised Machine Learning and test different models to see if we can achieve acceptable results for loan approvals and denials.
 
 ### Results
 
-Using bulleted lists, describe the balanced accuracy scores and the prescision and recall scores of all six ML models. Use screenhots of your outputs to support your results.
+Below are the results for the six different machine learning models. The different models use one of each of the following approaches; oversampling, undersampling, or combinatorial.
 
 ### Resampling Models
 * RandomOverSampler
