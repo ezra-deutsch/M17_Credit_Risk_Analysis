@@ -8,19 +8,29 @@ Explain the purpose of this analysis.
 
 Using bulleted lists, describe the balanced accuracy scores and the prescision and recall scores of all six ML models. Use screenhots of your outputs to support your results.
 
-- Resampling Models
-	- RandomOverSampler
-	- SMOTE
-	- ClusterCentroids
+Resampling Models
+RandomOverSampler
+ 
+ 
+SMOTE
+ 
+ 
+ClusterCentroids
+ 
+ 
 
-- SMOTEENN algorithm
- 	- SMOTEENN - SMOTE (Synthetic Minority Over-sampling Technique) + EEN (Edited Nearest Neighbor)
+SMOTEENN algorithm
+SMOTEENN = SMOTE (Synthetic Minority Over-sampling Technique) + EEN (Edited Nearest Neighbor)
+ 
+ 
 
-- Emsemble Classifiers
-	- BalancedRandomForestClassifier
-	- EasyEnsembleClassifier
+Emsemble Classifiers
+BalancedRandomForestClassifier
+  
 
-
+EasyEnsembleClassifier
+ 
+ 
 
 ### Summary
 
